@@ -14,7 +14,7 @@ class App : Application() {
             return instance!!.applicationContext
         }
     }
-    
+
 
     init {
         instance = this
